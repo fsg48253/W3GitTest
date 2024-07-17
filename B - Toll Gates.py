@@ -5,6 +5,8 @@ cupon=[list(map(int, input().split())) for _ in range(m)]
 
 min= min(a)+min(b)
 
+######
+
 for i in cupon:
     # print(i)
     
